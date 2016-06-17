@@ -1,4 +1,4 @@
 # learning
 
 
-# a simple interet bank system.
+# a simple Internet bank system.
